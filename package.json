@@ -13,7 +13,7 @@
     "dotenv": "^8.2.0",
     "gray-matter": "^4.0.2",
     "marked": "^2.0.1",
-    "polka": "next",
+    "polka": "1.0.0-next.11",
     "sirv": "^1.0.0"
   },
   "devDependencies": {
